@@ -1,1 +1,2 @@
 dodaj()
+odejmij()
