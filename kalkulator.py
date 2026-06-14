@@ -1,1 +1,1 @@
-dodaj()
+dodaj(): a+b
